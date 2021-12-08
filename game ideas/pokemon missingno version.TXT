@@ -1,0 +1,61 @@
+This game is not based on utilizing the lower level programming to create glitches. It does not create a “closed system” of glitches that do not crash the game but allow the player to freely explore the corrupted game. It is a pre-programmed game that merely simulates glitches.
+In Missingno version, the game is the same as or similar to RBY. However, you are allowed to explore regions further than the given boundaries. That is, these restrictions are off:
+    • You can go into the grass without a pokemon
+    • You can go past the boundaries
+    • You can go into Bill’s machine
+    • You can battle trainers without pokemon
+    • Sneak into Safari Zone
+    • Warp out of sequence
+    • Etc
+The true origin of Missingno will always remain unknown. But the common theme around Missingno is that they were halfway Pokemon that did not get the chance to finish completion. As the player explores the game, they encounter regions and even trainers that were unfinished. 
+In the non-glitch world, the player encounters journal entries about missing pokemon. Each of the missing pokemon has some connection to the non-glitch world. The player has to retrieve items scattered throughout both worlds to try to piece together as much of the glitch pokemon as they can. The player must go through a puzzle process to first catch the Missingno. Then they must find ways- whether it’s bringing the Missingno to a certain area or something else- to reveal the Missingno, which will shed more light on the mystery of the glitch world.
+Besides the Missingno, there are the impossible Pokemon that simply cannot exist in the physical world, yet they strive to, or others want to force them to. 
+There are many warnings that taking on this task will leave the world corrupted forever, and to turn back. Indeed, pokemon entries and menus get skewed, places in the real world are now leading to strange places in a maze, people are gone or turn into other things, and more. 
+The main task of the game is to collect the 8 main Missingno that will allow entry to the place to find where a certain person has gone. This requires figuring out the underlying structures hidden beneath the game. For instance, where are the “warp panels?” Why do they exist?
+The puzzles involving corrupted existing regions in certain ways. These ways are designed to not be tedious.
+The game begins by speaking to the old man. After doing so, the player notices that their name is now Old Man. Neither Oak nor the players’ mom recognize the player, and the player must search for their name. The Old Man is now gone. The players’ pokemon do not obey the player either. A strange voice calls out to the player, teasing them that they have their name. The player is led to discover that their name is held within the event “next Pokemon to be encountered when the player enters a piece of grass”. But this data will be overwritten if the player enters an area with wild pokemon. Thus, they must enter Cinnabar because that has no wild Pokemon and will not overwrite data.
+The voice tells the player to enter the shore of Cinnabar, and when they do, they battle a Pokemon constructed out of their name.
+The actual start of the game will not use this. Instead, a similar version is done that mimics the handling of lower level information.
+During the game, you have to figure out what causes what to be written in certain places, and figure out how to redirect it. For instance, your name can determine what Pokemon are encountered. 
+For the most part, this game does not rely on any lower level programming knowledge. Instead, events are hard coded into the game, merely simulating glitches. It is possible to find glitches within this simulation of a glitch game. 
+The “game” is self-aware of being a game; variables are not some mystical or ghostly thing. The theme is “what if the game processes something it wasn’t meant to process, something that was out of its programmed range?”
+<<<
+Missingno #1: The baby Kangaskhan. 
+Upon catching it, the player’s items are corrupted. 
+<<<
+Missingno #2: The substitute doll. The player must aim to catch the substitute form of a pokemon using substitute. The issue is that the Pokemon will not retain their subsitute form upon being captured. However, when a Pokemon uses substitute, their data is said to be held within a dummy variable- a pokemon found in the Pallet town house. This data will be overwritten as soon as the battle ends. But there is a way for the battle to not end traditionally- use a certain item. Now the player must figure out how to start a battle using the stored data. Etc.
+
+<<<
+Missingno #3: The Silph ghost
+<<<
+Missingno #4: The fossil
+<<<
+Missingno #5: The yellow Missingno
+<<<
+Missingno #6: The flying Missingno
+<<<
+Missingno #7: ‘M, the bird type.
+<<<
+Premise: 
+A 2D sprite map. The glitches are programmed in to look like glitches, but aren’t actual glitches. The story is an RPG where you can customize your party with team members. Encounters with enemies are not random; a statue appears and the only way to interact with it is by pressing A near it. The interesting aspect is that what appears on the next screen upon interaction can be very different; so it’s like gambling.
+Glitch powers:
+    • Walk through walls and buildings
+    • Swap/move building/wall/etc tiles
+    • Attack using things you can’t attack with
+<<<
+FOR A DIFFERENT TYPE OF GLITCH GAME:
+The AI is not programmed to respond to if-else; instead, it uses a function to choose its output. This allows it to interact with any sort of input that the developer didn’t oversee. What is the AI’s response when throwing fire at it? To allow for diverse responses, allow for combinations of responses. Also, the sequence of responses should matter; the AI response depends on previous inputs.
+Do not focus on making the AI behave like a good AI in a game. Unpredictable chaos is more fun.
+Also functions:
+    • AI appearance
+    • AI dialogue
+    • 
+<<<
+Artificial glitches: premise is that a developer has secrets hidden within the game that are obscured by the programming. Game takes around 5 hours to beat, and is a normal RPG similar to Pokemon. However, there are many strange and unexplained characters in there, many of them meta with strange ??? dialogue and appearances, like Imakuni in Pokemon. The player must dig through the deleted/forgotten sections of the game to piece together the lore the developers left behind- but they can never figure out all of it. 
+Create a prototype
+Also create a fake walkthrough (serves as blueprint)
+Final product is bigger than both of these
+<<<
+Story: In Pokemon, developers frequently develop new pokemon but don’t release them. Same with weapons, items, bosses, etc. This is sort of like “hard to find pokemon” but finding them does not involve “glitching” the game to bypass developer boundaries to venture into places you weren’t supposed to. The premise of this game is that the player will venture into glitch places that do unexpected, unexplained things to the player which are meta. Atmosphere in these places is like Yume Nikki. The premise is like Pony Island, except not to do with demons possessing a game. It is also more nonlinear.
+
+
