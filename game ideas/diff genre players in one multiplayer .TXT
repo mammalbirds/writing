@@ -1,0 +1,76 @@
+Team battle where each player on a team controls a different aspect using a different genre of gameplay. Eg) One team member sees the entire map from a top-down point of view, while another sees it only from a single character's point of view. The two main genres are Gods and Mortals (also called Tycoons and Heroes, or Tycoons and Soldiers). 
+
+A God player sees the map from top down and plays it just like an RTS. This means they have access to resources, buildings/walls, societies, environments, and armies. However, they lack the maneuverability of the single player, who can go inside buildings, hide in them, be much better at defeating enemies, have stronger stats than armies, can level up and gain armor, have more control over their moves, etc.
+
+For now, there are 2 main genres (simulation vs action/RPG) but these can be divided into more genres by restricting access to what certain genres can do.
+
+Gods:
+Economics/Civilization Simulation
+Army Simulation (RTS/MOBA)
+Puzzle 
+Sandbox
+Card Game
+
+The more difficult to blend in real time battle are puzzle and card game. One way to do it is to have puzzle players be able to solve environmental puzzles which change the environment and thus the tide of battle. These are not limited to environment, but anything. Puzzle players can also compete into direct puzzle battle, inhibiting their opponent, or timed puzzle battle, where the one who solves it first gets the reward (or their reward depends on their solve speed) where the reward can be say an upgrade to a town/soldier. 
+Card games follow something similar. The cards can have direct effects on battle, say summoning a monster. Player can directly attack the card game wizard to destroy their health, but the wizard is protected by monsters. They can influence the cards they draw. The puzzle/card game player may be a direct avatar they can control, or perhaps they cannot walk around (or else it'd be too similar to a Mortal role).
+Sandbox would be have direct control over many things. They'd be like a DM. Games can be challenging (one team is a one player Sandbox) or fair (both teams have equal number of sandbox players). In this sense, the sandbox player is like the AI in a single player game- they present a challenge, and adapt it in real time to the players' reactions. They create the puzzles, traps, NPC enemies, bosses, etc. that the players must overcome.
+
+Mortals:
+Platformer
+    Have acrobatic abilities that others lack
+FPS
+Third Person shooter
+Racing
+    This can be restricted by making them only control a vehicle. Vehicles have advantage of moving fast, and are good for transport (especially for economic purposes, capture the flag, etc) but have pros/cons of being strong just like a character. They can be destroyed by a single character, or destroy a single character, depending on stats
+Fighting / Hack N Slash
+    The advantage of fighters is that they can combo and aim/block at weakpoints. Fighters can aim 'top, below' on both characters, tall monsters, and even buildings, and only they have access to such specific hitboxes. 
+
+The following are roles found in typical teamgames, not mixing genres with wildly different playstyles: Tank, DPS, support, healer, stealth, sniper, builder, traps, mage
+
+For now, all mortals have access to these (same w/ gods), but if the draw of the game is 'MANY different genres blended into one, who will win' (like early MMA that pitted different styles against each other), one can separate them into even more specific sub-genres. For instance, one can make it so FPS cannot switch to third person view, etc.
+
+It is harder, or very very messy, to incorporate turn based playstyles in a real-time game. The same goes with putting 2D into a 3D world.
+
+
+There are different modes: 
+Each team requires a certain role or else it can't start
+FFA (no required roles)
+1 vs 1, X vs Y, FFA, Co-op vs AI, etc.
+Destroy weakpoints, Capture Flag, Rout, etc.
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Here is an example of a game:
+
+Team 1 has 2 Econ Sims, 1 Army Sim, 1 Platformer, 1 Racing, 1 Fighter, 2 FPS. Team 1 has an 2 Army Sims, 1 Puzzle, 1 Platformer, 1 Fighter, 2 FPS, 1 Racing.
+
+Each Econ Sim player starts with small initial resources and a few NPC harvesters who gain more resources. They are given menu options on what to build; this is just like Civilization. Using the towns they create, they gather resources that can create defensive buildings, blacksmiths, walls (obstructions), and even modify the environment (dams, plant forests in 1 click, etc.). To further their resources, they can create towns that make money- for instance, they can make a roller coaster amusement park (if they have enough steel, etc.) to attract NPC mobs to enter, and profit off of them, then use that money to construct weapons of war. These towns house workers who need food, etc. They can build training schools to create mages, soldiers, etc. A lot of management sim. However, they cannot control armies. 
+
+Econ players create their own towns/businesses and work together. If there are more than 2 teams, they can form temporary alliances too (this applies to all types of players, but only econ player alliances can 'share resources').
+
+The Army Sim is more of an RTS or MOBA; they only control the armies, and perhaps establish a few simple bases, but they have no access to large resources, and cannot build things such as defensive buildings, dams, blacksmiths, etc. They select groups of armies and can employ things such as hit and run tactics, set rallying points, create mini-schedules on what different groups do, etc. They rely on NPC abilities of their armies; they cannot control all of their characters at once in fine detail, and their characters are always weaker than Mortal players. They are like the swarm of NPC enemies that players must fight through in single player games. Their Heroes are like strong enemies, and by leveling up and obtaining upgrades, they can even summon Boss characters.
+
+Mortal characters are like one man armies in single player games. Hack N Slash shows one character defeating entire hordes of enemies; this is the same. Unlike the God players, these characters can scale buildings, go inside them, use specific platforms, hide in them, etc. They can control their abilities with precision, hitting enemy weakpoints that God players can never do (unless their NPC entities hit them with luck or at a high lvl). God players only have a top down view and control their characters like in a MOBA; Mortal players see the world through the lens of their character.
+
+Now with a Mortal, comes with puzzles. The Puzzle/Sandbox player manipulates the environment, albeit with limited ability. They can create moving platforms, timed spikes, etc.- but they cannot make them too tricky. The Mortal players can predict what the puzzles are, or infer them through observation or what their teammates tell them. A puzzle player can look inside a building and decide to add a maze, but due to limited resources, they cannot build it too elaborate, and using the game code's algorithms, they cannot build unsolvable puzzles (the algorithm can determine if a maze is unsolvable or not, and also base it on other teams' stats if enemies in it are undefeatable, etc). In certain games, they are invincible until one of the game objectives is met to determine the winner (only their puzzles can be solved/not, and destroyed); in others, they may have a weakpoint where players can hit to drain their resources (called 'mana'). The Card Game player is a sub-genre of this.
+
+Now, there may be a distinction b/w a Puzzle Designer (sandbox) and Puzzle Solver. The puzzle designer is as described above, whereas a solver actually solves puzzles. If the solver has a mortal avatar, that is like a 'hacker', who roams as a character, but switches into puzzle solving mode upon encountering a puzzle. 
+
+Team 1: The game starts with the two econ sims finding wood, metals, fire, rivers, etc. to use as resources to build a town. They decide to build a walled fortress protecting the team's Weakpoints. They agree to build training schools to upgrade the Army Sim player's NPCs, who decides to focus on two groups: NPCs in a dungeon that's on the walls of the 2 main towns, and an army. The Army Sim has one Hero character who casts support spells. The 4 mortals scout the map first; they are familiar with the initial territory and the potential things the puzzle player can build. One FPS decides to camp as a sniper, etc.
+
+Team 2's Army Sims each have 2 Hero characters, who decide to each protect a lane that goes towards their Weakpoints. They have no resources, but they have more Mortals, who are far stronger than NPCs. At the start, 1 Mortal can take on ~5 NPCs, depending on matchups. A shooter from Team 2 encounters Team 1's Fighter; the Fighter focuses on close-range combat, so they dash in range and combos the shooter. The Fighter baits the shooter and punishes them. The advantage of the Fighter is that they have many more 'detailed' options to move their body- they have many actions and moves, unlike the shooters. It is much harder to read a Fighter, due to the many options they can throw out. However, the Fighter lacks abilities such as being able to get a headshot, being able to heal, etc. The Fighter is good at close-range, but not map maneuverability. These trade-off has Fighter and Platformer at the extremes, whereas shooters are tend to be more within this spectrum.
+
+The Fighter is attacked by a sniper from afar. But this sniper is ambushed by an Army player, who surrounds them with zombies; now, the sniper must play a survival game. The Fighter then continues their attack on the shooter, but the shooter is saved by a teammate Fighter. Now, the two Fighters duel off in a typical 3D fighting game.
+
+Now the Puzzle/Sandbox player from Team 2 starts to manipulate the environment. They create timed lasers. There is also a wall that requires a key to go through. They create a puzzle where each part of the key is scattered throughout the map.
+
+To defeat the Puzzle player, the Army Sim- who can see all throughout the map except in Fog of War (which can re-emerge and disappear during the game)- scouts potential locations, predicting where the Puzzle player will go. There are a lot of fog of war places, so the army sim in Team 1 advises the Mortals to head there to check. The army sim cannot look within buildings; only Mortals can. The Mortal players agree on how to split up to look for the key pieces.
+
+The Platformer solves the laser puzzle after a few tries, figuring out its timing. All players can solve it, but the Platformer solves it faster. The Mortal players find the keys, and go through the keyed door. Now the Puzzle player is defeated in this sense, and it takes time to re-generate resources to build puzzles, so they are at a huge disadvantage now. During this re-gen time, they must plan what new puzzles to put up next.
+
+The Team 2 Mortals head near the mini-dungeon created by the econ sim players. They defeat the NPCs guarding it- the econ sim put them up, and the army sim player controls them in finer details, programming and scheduling their actions and NPC tactic plans (if surrounded, what ability to use?) and also micro-controlling some of them. The Team 2 Mortals defeat these NPCs, and head into town, where they slaughter the residents, holding children hostage to persuade uncontrollable NPCs into stopping their work. The Tycoon econ sim players experience a revolt, and lose many workers.
+
+One town from Team 1 is down, and this town is where the Weakpoint was at (each team has a honing beacon onto the other team's weakpoint). Before, the Racing player's job was to transport resources between towns as fast as possible (one town had mines, the other had the schools- this was positioned for tactical reasons); they had a trunk with Extremely Powerful resources used for upgrades, and by running through the environment very fast, they transported them 100x faster than an NPC would've. The environment's roads are fraught with sharp turns that only a racer can drift through. Along the way, they run over any NPCs in their way, but they do take some damage.
+
+The Econ sim players tell the racer to switch job; their job is now to transport the Weakpoint into the other town. Now the Racing player has the Weakpoint and must transport it to the town still standing. As they race through, the other racing player- who was focused on running people over and shooting them with an attached gattling gun- heads towards the racer. They race on who can get there first, because the racer carries an item that can destroy the town. However, the two racers cannot destroy each other; if one tries to run into the other, they both die, and the Weakpoint falls into wilderness where neither team has more of an advantage to get during this point of the game. They race in a typical racing game, and try to knock the other off of the road. However, Team 1 is able to get to the town first, beating Team 2 and allowing the gates to close off to prevent Team 2 car from getting in (in this case, they could only close the gates when the Team 1 car was inside, as Team 1 also carries an item that could do this. This game has many possible scenarios, but predictable patterns once one is familiar with it). Now the game goes on.
+
+Thus, this is one such game scenario that can happen. This game is mainly for chaotic fun, but over time, players may find tactics and rules on how to balance it so it can be competitive.
