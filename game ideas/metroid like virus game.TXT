@@ -1,0 +1,35 @@
+There are several games where you play as a virus such as Pandemic and the goal is to infect many things. Then there are games like Project Remedium or Body VR where you play inside the human body. Then there are games where you switch perspectives on multiple scales.
+
+This game is inspired by Trace from Metroid Prime Hunters. There are two possible ways I can see this game being played:
+    1. You play as a lone hunter who goes around infecting creatures/structures, eventually taking them over to do your bidding so they fight other creatures, wear them down, and allow you to jump in and take them over.
+    2. OR it is more like an RTS where you control swarms of viruses directly to break down larger organisms and/or control them
+
+I think both of these can be utilizied. Most of the time, you play as the Hunter like a Hero unit, but you can switch to its copies and control the swarm like an RTS. Then you can control bigger organisms who have been taken over too, like in the game Everything. A multiplayer RTS game allows one to switch heroes when one dies until the game ends, but if it’s single player, it’s bad if one can do this because the entire game would be hard to get a game over due to the prolonged period of time (lasting an entire save file instead of a skirmish), lessening the tension. Additionally, switching between main hunters makes one feel less connected to a protagonist, making it feel like an RTS instead of a game where you ARE the hunter. This game is a platformer with a Metroid-like atmosphere, but it is like the game Everything where you can switch to controling larger organisms and even swarms of them.
+
+Of course this game is not directly about how biology works; it’s only inspired by concepts from it. 
+
+So the Trace-like alien goes around biological environments. On the micro level, it’s attacked by guardians, so it has to steathily hide from them then attack them. It gets to the weak points of the bigger base and takes it over, and can now control the base like it’s its own vehicle, only to reveal a larger level of organisms of the same size. Now the Trace-like alien can take over organisms of all levels it’s conquered before, requiring it to switch between multiple scales to tackle the truly huge beasts. It can set up some sort of factory like in SpaceChem and code the AI units to act according to preset strategies to take over similar organisms with biology puzzles whose solutions have been figured out. 
+
+Mutations can play a part. Unlike random mutations, the player chooses mutations. However, the player does not choose which organisms get to survive and grow plentiful; that is done by natural selection. The player can only guess which mutations, which require points to buy, may help the new organisms propagate better.
+
+The style is very geometric. The music is very Metroid-like, and whenever it switches scales, there is a profound feeling. 
+
+<<<
+FOR INSTANCE: The Hunter defeats level 1 aliens of the same size, and now conquers the base called a Xhi which is a level 2 alien. Now it can look through the eyes of the Xhi and see the bigger world around it; the Hunter was inside a biological body before, and now sees a fiery landscape with Xhi-like creatures and others of similar size. The Hunter can now use the Xhi to spread itself, copies of it, and any other taken over creature to take over these level 2 aliens. Since it’s taken over the Xhi before, it has figured out patterns to counter its defense system. Using SpaceChem-like programming, it can create these patterns and use them to order its level 1 army to conquer level 2 aliens. Not only that, but any conquered level 2 aliens is ‘zombified’ into attacking other level 2 aliens. But it’s not so simple as using brute force. Both level 1 and level 2 are required to take over the base, since some level 2 can only be taken down through infections by level 1, and then must be pummeled by their fellow level 2s. 
+
+While the Hunter is focused on stealth, the AI it controls are more like swarms. Having an AI partner in stealth takes away the element of being a lone Hunter. Think of the AI swarms as tools/traps rather than companions. The player is not leading an army as a general in the front, but is infiltrating bases, messing with their protocols, and changing the allegiences of its security systems to attack itself.
+
+After conquering level 2 aliens, the player sees the body the level 2 aliens was in, and this is a level 3 alien. Now the player can utilize 3 levels. The level 3 organisms have 2 levels within them; they have level 2 organisms within them, and these level 2 organisms have level 1 organisms within them! At this point, it’s extremely complex, and the player CANNOT micromanage everything. Instead, the player must program Space-chem like instructions for the AI to follow, utilizing probabilistic strategy to find plans that will likely succeed. But the mindless swarms cannot do this alone; the player must clear a path for the swarms, still acting as a lone hunter.
+
+This goes on for say, 7 levels. Each level contains a lot of different organisms, and each organism is a level with levels within them. The higher levels are incredibly hard to comprehend and are surprising. This is all so incredibly complex that the game maker should still focus on level design, but should also focus on how to make procedurally generated rules that create interesting levels. This is a hard task by iself, so for the prototypes, just design a system that allows one to switch between manually-made levels.
+
+It is not just profound to vertically scale up. The player can be surprised by new creatures whose hierarchical organization is a never before seen puzzle. The player must focus on learning how to make abstractions which automate dealing with threats within the creatures on all levels. All levels, from 1 to the creature’s level, must work in harmony. The player must have a model of how changes from level 1 propagate to level 3. The player must figure out how to modulate patterns to make lower levels ‘black boxes’. This is basically like making a programming language from machine code to a high level human readable language, but far less complex.
+
+<<<
+To do:
+    1. Create a platformer prototype demo which allows switching of scales. Draw concept art.
+    2. Create a prototype demo which procedurally generate levels of several scales.
+
+Once you have the prototypes and proposed ideas, reach out to a team and funding to help in developing the rest.
+
+
