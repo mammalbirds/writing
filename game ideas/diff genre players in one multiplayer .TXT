@@ -6,7 +6,7 @@ For now, there are 2 main genres (simulation vs action/RPG) but these can be div
 
 Gods:
 Economics/Civilization Simulation
-Army Simulation (RTS/MOBA)
+Army Simulation (RTS/tactical)
 Puzzle 
 Sandbox
 Card Game
@@ -24,6 +24,8 @@ Racing
     This can be restricted by making them only control a vehicle. Vehicles have advantage of moving fast, and are good for transport (especially for economic purposes, capture the flag, etc) but have pros/cons of being strong just like a character. They can be destroyed by a single character, or destroy a single character, depending on stats
 Fighting / Hack N Slash
     The advantage of fighters is that they can combo and aim/block at weakpoints. Fighters can aim 'top, below' on both characters, tall monsters, and even buildings, and only they have access to such specific hitboxes. 
+MMORPG/MOBA
+    Focuses on a single character's in-depth abilities, talent trees, strats/matchups, team synergy, etc. The player can play this from top down, third person, or first person. The character levels up within each game, and does not carry over to other games (as in MOBAs). 
 
 The following are roles found in typical teamgames, not mixing genres with wildly different playstyles: Tank, DPS, support, healer, stealth, sniper, builder, traps, mage
 
@@ -47,9 +49,9 @@ Each Econ Sim player starts with small initial resources and a few NPC harvester
 
 Econ players create their own towns/businesses and work together. If there are more than 2 teams, they can form temporary alliances too (this applies to all types of players, but only econ player alliances can 'share resources').
 
-The Army Sim is more of an RTS or MOBA; they only control the armies, and perhaps establish a few simple bases, but they have no access to large resources, and cannot build things such as defensive buildings, dams, blacksmiths, etc. They select groups of armies and can employ things such as hit and run tactics, set rallying points, create mini-schedules on what different groups do, etc. They rely on NPC abilities of their armies; they cannot control all of their characters at once in fine detail, and their characters are always weaker than Mortal players. They are like the swarm of NPC enemies that players must fight through in single player games. Their Heroes are like strong enemies, and by leveling up and obtaining upgrades, they can even summon Boss characters.
+The Army Sim is more of an RTS; they only control the armies, and perhaps establish a few simple bases, but they have no access to large resources, and cannot build things such as defensive buildings, dams, blacksmiths, etc. They select groups of armies and can employ things such as hit and run tactics, set rallying points, create mini-schedules on what different groups do, etc. They rely on NPC abilities of their armies; they cannot control all of their characters at once in fine detail, and their characters are always weaker than Mortal players. They are like the swarm of NPC enemies that players must fight through in single player games. Their Heroes are like strong enemies, and by leveling up and obtaining upgrades, they can even summon Boss characters.
 
-Mortal characters are like one man armies in single player games. Hack N Slash shows one character defeating entire hordes of enemies; this is the same. Unlike the God players, these characters can scale buildings, go inside them, use specific platforms, hide in them, etc. They can control their abilities with precision, hitting enemy weakpoints that God players can never do (unless their NPC entities hit them with luck or at a high lvl). God players only have a top down view and control their characters like in a MOBA; Mortal players see the world through the lens of their character.
+Mortal characters are like one man armies in single player games. Hack N Slash shows one character defeating entire hordes of enemies; this is the same. Unlike the God players, these characters can scale buildings, go inside them, use specific platforms, hide in them, etc. They can control their abilities with precision, hitting enemy weakpoints that God players can never do (unless their NPC entities hit them with luck or at a high lvl). God players only have a top down view to control their characters; Mortal players see the world through the lens of their character.
 
 Now with a Mortal, comes with puzzles. The Puzzle/Sandbox player manipulates the environment, albeit with limited ability. They can create moving platforms, timed spikes, etc.- but they cannot make them too tricky. The Mortal players can predict what the puzzles are, or infer them through observation or what their teammates tell them. A puzzle player can look inside a building and decide to add a maze, but due to limited resources, they cannot build it too elaborate, and using the game code's algorithms, they cannot build unsolvable puzzles (the algorithm can determine if a maze is unsolvable or not, and also base it on other teams' stats if enemies in it are undefeatable, etc). In certain games, they are invincible until one of the game objectives is met to determine the winner (only their puzzles can be solved/not, and destroyed); in others, they may have a weakpoint where players can hit to drain their resources (called 'mana'). The Card Game player is a sub-genre of this.
 
